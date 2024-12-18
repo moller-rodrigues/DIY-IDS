@@ -1,0 +1,2 @@
+-e Blue-Sentinel==1.0
+-e git+https://github.com/ShuZer0/Stretch-Project.git@459e18f0a0b6b68f5abf7a0533f2dcc0c4a54e82#egg=Blue_Sentinel
